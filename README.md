@@ -1,6 +1,8 @@
+![d](Examples/Untitled-1.png)
 # SynthEarth Dataset
 Welcome to the official GitHub repository for The EarthSynth dataset, a comprehensive and high-quality dataset specifically created for [Realistic Terrain Generation Using Generative Adversarial Networks]() and utilized in [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai). This Readme file serves as a guide to understanding the dataset, its features, and future plans. 
 
+![d](sample_27.png)
 
 ### Please note that The EarthSynth dataset is a closed-source dataset available for sale, ensuring its exclusivity and value to potential customers.
 
