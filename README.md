@@ -9,7 +9,7 @@ Welcome to the official GitHub repository for The SynthEarth dataset, a comprehe
 
 ## Overview
 
-The SynthEarth dataset is a brand-new dataset created specifically for [Realistic Terrain Generation Using Generative Adversarial Networks]() and utilized in [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai). The dataset is created based on real-world terrain elevation data.
+The SynthEarth dataset is a brand-new dataset created specifically for [Realistic Terrain Generation Using Generative Adversarial Networks](https://github.com/Mayonaka88/Realistic-Terrain-Generation-Using-Generative-Adversarial-Networks) and utilized in [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai). The dataset is created based on real-world terrain elevation data.
 
 The new dataset was created by training a DCGAN on real-world terrain elevation data and utilizing it to create brand new unique hyper-realistic images of real word elevation. Each image in the new SynthEarth dataset is normalized, changed to greyscale, and has the dimensions of 64 pixels by 64 pixels.
 
