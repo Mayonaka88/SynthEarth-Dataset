@@ -1,6 +1,6 @@
 ![d](banner.png)
 # SynthEarth Dataset
-Welcome to the official GitHub repository for The SynthEarth dataset, a comprehensive and high-quality dataset specifically created for [Realistic Terrain Generation Using Generative Adversarial Networks]() and utilized in [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai). This Readme file serves as a guide to understanding the dataset, its features, and future plans. 
+Welcome to the official GitHub repository for The SynthEarth dataset, a comprehensive and high-quality dataset specifically created for [Realistic Terrain Generation Using Generative Adversarial Networks](https://github.com/Mayonaka88/Realistic-Terrain-Generation-Using-Generative-Adversarial-Networks) and utilized in [SynthEarth AI](https://mayonaka88.itch.io/synthearth-ai). This Readme file serves as a guide to understanding the dataset, its features, and future plans. 
 
 ![d](sample_27.png)
 
